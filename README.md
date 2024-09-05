@@ -1,4 +1,4 @@
-# Robotic Text-to-Speech
+***Robotic Text-to-Speech***
 
 This project is a simple, browser-based application that converts text to speech with a robotic voice effect. It allows users to input unlimited text and control the speech playback with speak and pause functionality.
 
@@ -10,7 +10,7 @@ This project is a simple, browser-based application that converts text to speech
 - Speak button to start text-to-speech
 - Pause/Resume button for speech playback control
 - Responsive design for various screen sizes
-- 
+  
 ## Installation
 
 1. Clone this repository:
@@ -42,5 +42,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgments
 
-- Created by SaiKrishna.Pulusani @2024
+- Created by SaiKrishna.Pulusani 
 - Uses the Web Speech API for text-to-speech functionality
+
+
+  ***BIG THANKS TO CLAUDE***
